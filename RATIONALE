@@ -1,0 +1,125 @@
+Assignment 3: RATIONALE
+
+
+This rationale includes how i build the 'Tocumwal Website' using semantic HTML5 and CSS. Media queries was used to test the responsiveness of the website in three different sizes, like in iphone, ipad and laptop. The accessibility audit is also performed to meet the WCAG 2.0 minimum requirements. I use https://www.w3schools.com/ as my main reference for html and css codes. I watch youtube vidoes for ideas and inspiration on how to build a website.
+
+
+I start conceptualising my website by thinking of a theme. Since the content is a description and history of Tocumwal houses that's dated way back 1940's, along with stories of people with their experiences and memories of Tocumwal houses, i want it to look classic with hint of pastel colours . So the initial colour pallette that i decided are shades of ivory and pink. But this colour combination did not work out well. There was not much colour contrast, it just blend and other colours that i want to incorporate did not match as well. So i decided to changed it to lightgrey as the container colour and integrate shades of green to give it a bit more vibrant and modern look. I made 3 pages to put the content (i misunderstood it, i thought it's maximum of 3). But i find it hard to divide the content to sections because some are really long, like the origins, and the introduction is just short. It was also difficult to determine which part goes to what page without understanding the content. I have had to read it thrice to understand the content, so i would know what i need to include in the navigation to make it look fluid and substantial.
+
+
+I draw couple of layouts for the three pages that i think would fit the aesthetic of the website that i would like. I made rough drafts on papers for different sections and aside to include.
+
+
+I made basic semantic format like the header on top, nav, then main and footer. I find that there were different ways that i can format my page depending on the theme and needs of the project. For example, it can look like a website of a retail store, a restaurant or a bio. Considering all these ideas, i decided three different styles of formatting. I used boxes in my homepage, grids in my second page and apply gallery in my third page. I realised at the later end of making the project that it was not a good idea. I should have just used grids, it would have been easier to apply media quieries and apply styling. I have to utilised different css codes for each page. It could get confusing and frustrating because i have to check over again and again if it would still render the same look for the 3 pages on especially the header and the footer part.
+
+
+As i progress with the project, i have encountered so many issues. For instance, i don't know what code to use for the style, colour and format that i want to achieved. I find w3school website to be very helpful together with youtube tutorials (but some are more than 5 years old videos, so im not sure if they are still relevant). It was a matter of trial and error for me. I took so much time figuring out which one works, and if it does, how would i apply it to the whole website. Time management is a big issue for me too. I failed to plan ahead. I should have map out the work that i need to do and put timeframe. I realised that i spent so much time on small things such as the text colour and backgroung colour to use to make the website look pretty. However at the end it was not worth it, because i still have to change it to meet the WCAG requirements for colour contrast issue. Another one is deciding on what content to make use of. Whenever i see new designs, i want to incorporate it in my site. Yet, it mean changing the format again. I modify mine 5 times.
+
+After i was satisfied with the look of the website i did the media quiries next. It was a challenged as well. I started designing using large screen, another mistake. I should have work on it using "mobile first" design. Adjusting to make it fit in a small screen is a strenuous task of the project. I struggled mainly on the header part. Because each page had different styling method, as a consequence i have to change the sizes individually. Adding brakepoints to make it suitable and readable for different screen sizes is a good idea. It becomes more appropriate.
+
+I used wave to test my website for any accessibility and usability issues. It was just strange because chrome and firefox showed different results. In chrome my i don't have any errors but in firefox i have four. Even in the Alert, Features and Structural elements showed different results.
+
+
+References:
+
+
+https://trove.nla.gov.au/list?id=93227
+
+(for content reference)
+
+
+https://webflow.com/blog/how-to-pick-the-best-font-for-your-site
+
+( get some ideas for font style to use)
+
+
+https://www.realestate.com.au/news/nsw-air-base-turned-into-canberra-suburb/ (used as a link for social media account section)
+
+
+https://www.allhomes.com.au/news/original-condition-1940s-heritagelisted-tocumwal-house-in-oconnor-for-sale-20180831-h14qgn-760954/ (used as a link for social media account section)
+
+
+https://www.domain.com.au/sale/tocumwal-nsw-2714/
+
+(used as a link for social media account section)
+
+
+
+For HTML and CSS:
+
+
+https://www.w3schools.com/default.asp
+
+(used as reference for html and css code)
+
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header (used as HTML code reference for header and aside element)
+
+
+https://codepen.io/bradtraversy/pen/RjpQvZ
+
+(tutorial on css grid layout)
+
+
+https://www.youtube.com/watch?v=M3qBpPw77qo
+
+(Grid CSS Responsive Website Layout - "Mobile First" Design tutorial)
+
+
+https://www.youtube.com/watch?v=bWPMSSsVdPk
+
+(HTML tutorial)
+
+
+https://www.youtube.com/watch?v=KJ13lX20FqU
+
+(HTML tutorial)
+
+
+https://www.youtube.com/watch?v=0afZj1G0BIE
+
+(CSS tutorial)
+
+
+
+For Media Queries:
+
+
+https://responsivedesign.is/develop/browser-feature-support/media-queries-for-common-device-breakpoints/ (for ideas on how to perform media queries)
+
+
+https://css-tricks.com/logic-in-media-queries/  (for ideas on how to perform media queries)
+
+
+
+For Accessibility Audit:
+
+
+https://www.w3.org/WAI/WCAG21/quickref/?versions=2.0#non-text-content
+
+(reference for WCAG2 requirements)
+
+
+https://webaim.org/standards/wcag/checklist#sc1.3.1
+
+(used as a guide/ checklist for the audit)
+
+
+https://wave.webaim.org/ (to perform accessibility test)
+
+
+https://www.youtube.com/watch?v=K-MJJUTF9VM (tutorial on how to use wave)
+
+
+https://www.youtube.com/watch?v=aSwcnbWXSwE
+
+(tutorial on how to use wave)
+
+
+https://www.youtube.com/watch?v=LEr99RWRvY8
+
+(tutorial on how to use wave)
+
+﻿
+
+
